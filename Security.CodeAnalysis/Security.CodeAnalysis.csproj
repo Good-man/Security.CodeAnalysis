@@ -97,12 +97,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DotNetChecker.cs" />
     <Compile Include="CodeChecker.cs" />
     <Compile Include="CodeIssue.cs" />
     <Compile Include="CodeIssueFoundEventArgs.cs" />
     <Compile Include="CSharp\ActionMethodChecker.cs" />
     <Compile Include="CSharp\ControllerChecker.cs" />
     <Compile Include="CSharp\CSharpFileChecker.cs" />
+    <Compile Include="CSharp\CSharpSyntaxTreeChecker.cs" />
     <Compile Include="FileChecker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SeverityLevel.cs" />

@@ -42,7 +42,7 @@ namespace Security.CodeAnalysis
 
         public override void Check()
         {
-            OnCodeIssueFound("File Check Not Implemented", "Checking for this type of file has not been implemented", FileInfo.FullName, SeverityLevel.Info);
+            OnCodeIssueFound("File Type Not Supported", "Checking for this type of file is not supported.", FileInfo.FullName, SeverityLevel.Info);
         }
     }
 }

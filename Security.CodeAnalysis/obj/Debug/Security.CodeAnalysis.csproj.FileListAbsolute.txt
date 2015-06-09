@@ -1,4 +1,3 @@
-C:\Users\Mark\Source\Repos\Security.CodeAnalysis\Security.CodeAnalysis\obj\Debug\Security.CodeAnalysis.csprojResolveAssemblyReference.cache
 C:\Users\Mark\Source\Repos\Security.CodeAnalysis\Security.CodeAnalysis\bin\Debug\Security.CodeAnalysis.dll
 C:\Users\Mark\Source\Repos\Security.CodeAnalysis\Security.CodeAnalysis\bin\Debug\Security.CodeAnalysis.pdb
 C:\Users\Mark\Source\Repos\Security.CodeAnalysis\Security.CodeAnalysis\bin\Debug\Microsoft.CodeAnalysis.CSharp.Desktop.dll
@@ -41,3 +40,4 @@ C:\Users\Mark\Source\Repos\Security.CodeAnalysis\Security.CodeAnalysis\bin\Debug
 C:\Users\Mark\Source\Repos\Security.CodeAnalysis\Security.CodeAnalysis\bin\Debug\System.Reflection.Metadata.xml
 C:\Users\Mark\Source\Repos\Security.CodeAnalysis\Security.CodeAnalysis\obj\Debug\Security.CodeAnalysis.dll
 C:\Users\Mark\Source\Repos\Security.CodeAnalysis\Security.CodeAnalysis\obj\Debug\Security.CodeAnalysis.pdb
+C:\Users\Mark\Source\Repos\Security.CodeAnalysis\Security.CodeAnalysis\obj\Debug\Security.CodeAnalysis.csprojResolveAssemblyReference.cache

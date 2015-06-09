@@ -5,7 +5,9 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.CodeAnalysis", "Security.CodeAnalysis\Security.CodeAnalysis.csproj", "{072EF89C-C163-4579-97AB-C53D550E32F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.CodeAnalysis.Test", "..\Security.CodeAnalysis.Test\Security.CodeAnalysis.Test.csproj", "{81F20D2F-A7EA-4F14-9872-69BF43492AB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.CodeAnalysis.Test", "Security.CodeAnalysis.Test\Security.CodeAnalysis.Test.csproj", "{81F20D2F-A7EA-4F14-9872-69BF43492AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.CodeAnalysis.Cmd", "Security.CodeAnalysis.Cmd\Security.CodeAnalysis.Cmd.csproj", "{39ED0EDA-9B02-40BA-85BC-E3990A233E08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{81F20D2F-A7EA-4F14-9872-69BF43492AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81F20D2F-A7EA-4F14-9872-69BF43492AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81F20D2F-A7EA-4F14-9872-69BF43492AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39ED0EDA-9B02-40BA-85BC-E3990A233E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39ED0EDA-9B02-40BA-85BC-E3990A233E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39ED0EDA-9B02-40BA-85BC-E3990A233E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39ED0EDA-9B02-40BA-85BC-E3990A233E08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
